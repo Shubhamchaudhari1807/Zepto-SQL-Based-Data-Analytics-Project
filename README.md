@@ -12,11 +12,7 @@
 
 > **A real-world e-commerce data analytics project** — cleaning, exploring, and extracting business insights from a Zepto-inspired inventory dataset using advanced SQL.
 
-<br/>
 
-[📊 View Queries](#-data-analysis--business-insights) · [🚀 Quick Start](#-quick-start) · [📬 Connect](#-connect-with-me)
-
-</div>
 
 ---
 
